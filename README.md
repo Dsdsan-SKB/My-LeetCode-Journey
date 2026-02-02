@@ -14,7 +14,7 @@
 - [ ] [242. Valid Anagram](https://leetcode.com)
 
 ### Хеш-таблицы
-- [x] [1. Two Sum](https://leetcode.com)
+- [**x**] [1. Two Sum](https://leetcode.com)
 - [ ] [387. First Unique Character in a String](https://leetcode.com)
 
 ### Стек и Очереди
