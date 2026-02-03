@@ -15,7 +15,7 @@
 
 ### Хеш-таблицы
 - [x] [1. Two Sum](https://leetcode.com)
-- [ ] [387. First Unique Character in a String](https://leetcode.com)
+- [x] [387. First Unique Character in a String](https://leetcode.com)
 
 ### Стек и Очереди
 - [ ] [20. Valid Parentheses](https://leetcode.com)
