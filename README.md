@@ -5,7 +5,7 @@
 ## Список задач (To-Do):
 
 ### Массивы и циклы
-- [ ] [2239. Find Closest Number to Zero](https://leetcode.com)
+- [x] [2239. Find Closest Number to Zero](https://leetcode.com)
 - [ ] [217. Contains Duplicate](https://leetcode.com)
 - [ ] [283. Move Zeroes](https://leetcode.com)
 
