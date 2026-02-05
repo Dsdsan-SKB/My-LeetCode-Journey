@@ -6,7 +6,7 @@
 
 ### Массивы и циклы
 - [x] [2239. Find Closest Number to Zero](https://leetcode.com)
-- [ ] [217. Contains Duplicate](https://leetcode.com)
+- [x] [217. Contains Duplicate](https://leetcode.com)
 - [ ] [283. Move Zeroes](https://leetcode.com)
 
 ### Строки
